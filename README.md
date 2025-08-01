@@ -20,8 +20,8 @@ A simple and responsive URL shortener built with Node.js, Express, HTML, CSS, an
 
 url-shortener/
 ├── public/ # Static frontend files (HTML, CSS)
-├── data/ # backned data
-├── app.js # node server
+├── data/ # Backend data (e.g., JSON or storage)
+├── app.js # Node.js server entry point
 ├── package.json # Project metadata and scripts
 
 ---
@@ -51,10 +51,3 @@ This project is licensed under the MIT License.
 🙌 Acknowledgments
 Thanks to the open-source community and tools that made this project possible.
 
-yaml
-Copy
-Edit
-
----
-
-Would you like me to include a preview screenshot or instructions to deploy it on Render as well?
