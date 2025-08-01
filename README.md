@@ -18,8 +18,12 @@ A simple and responsive URL shortener built with Node.js, Express, HTML, CSS, an
 
 ## 📁 Project Structure
 
-<pre> ```bash url-shortener/ ├── public/ # Static frontend files (HTML, CSS) ├── data/ # Backend data (e.g., JSON or storage) ├── app.js # Node.js server entry point ├── package.json # Project metadata and scripts ``` </pre>
----
+url-shortener/
+├── public/        # Static frontend files (HTML, CSS)
+├── data/          # Backend data (e.g., JSON or storage)
+├── app.js         # Node.js server entry point
+├── package.json   # Project metadata and scripts
+
 
 ## ⚙️ Getting Started
 
