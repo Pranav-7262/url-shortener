@@ -24,10 +24,6 @@ url-shortener/
 ├── app.js # node server
 ├── package.json # Project metadata and scripts
 
-yaml
-Copy
-Edit
-
 ---
 
 ## ⚙️ Getting Started
@@ -37,17 +33,8 @@ Edit
 ```bash
 git clone https://github.com/Pranav-7262/url-shortener.git
 cd url-shortener
-2. Install Dependencies
-bash
-Copy
-Edit
 npm install
-3. Run the Application
-bash
-Copy
-Edit
 node app.js
-The server will start on http://localhost:3000 (or the port set in process.env.PORT)
 
 🛠️ Built With
 Node.js
